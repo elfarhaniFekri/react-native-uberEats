@@ -8,7 +8,7 @@ import { Divider } from 'react-native-elements'
 import BottomTabs from "../components/BottomTabs";
 import About from "../components/restaurantDetail/About";
 
-const YELP_API_KEY ="S41bMNfUEXZEcRr6-QhRemoDuRruWf0knp3KwdmOV3KamsZKpYjjMZCD6Rx69qAATPTe9nX9MWrVGUMgLDhphfMqIymKUdlkJ94bGcT448SYJSS1-N71q64srgNaYXYx";
+const YELP_API_KEY ="your key";
 
 
 export default function Home({navigation}) {
